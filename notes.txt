@@ -1,1 +1,2 @@
 Hello Git
+Understanding Git staging.
